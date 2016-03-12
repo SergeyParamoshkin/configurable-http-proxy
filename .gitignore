@@ -1,6 +1,7 @@
 node_modules
 *.py[co]
 *~
+.idea
 .DS_Store
 /configurable-http-proxy
 bench/env
